@@ -1,0 +1,7 @@
+os
+psutil
+joblib
+numpy
+pynput
+scikit-learn
+plyer
